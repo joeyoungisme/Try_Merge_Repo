@@ -2,6 +2,7 @@ add number "789" in every line.
 
 ab789cdefg
 ab789cdefg
+<<<<<<< HEAD
 a789bcdefg
 abc789defg
 bdasdfascewrkjwj
